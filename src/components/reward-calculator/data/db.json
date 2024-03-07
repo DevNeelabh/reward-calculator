@@ -1,0 +1,35 @@
+{
+    "transactions": [
+      { "id": 1, "customerId": 1, "month": "January", "amount": 120 },
+      { "id": 2, "customerId": 1, "month": "February", "amount": 150 },
+      { "id": 3, "customerId": 1, "month": "March", "amount": 80 },
+      { "id": 4, "customerId": 2, "month": "January", "amount": 100 },
+      { "id": 5, "customerId": 2, "month": "February", "amount": 25 },
+      { "id": 6, "customerId": 2, "month": "March", "amount": 0 },
+      { "id": 7, "customerId": 3, "month": "January", "amount": 200 },
+      { "id": 8, "customerId": 3, "month": "February", "amount": 300 },
+      { "id": 9, "customerId": 3, "month": "March", "amount": 0 },
+      { "id": 10, "customerId": 4, "month": "February", "amount": 120 },
+      { "id": 11, "customerId": 4, "month": "March", "amount": 180 },
+      { "id": 12, "customerId": 4, "month": "April", "amount": 0 },
+      { "id": 13, "customerId": 5, "month": "March", "amount": 80 },
+      { "id": 14, "customerId": 5, "month": "April", "amount": 0 },
+      { "id": 15, "customerId": 5, "month": "May", "amount": 150 },
+      { "id": 16, "customerId": 6, "month": "April", "amount": 220 },
+      { "id": 17, "customerId": 6, "month": "May", "amount": 50 },
+      { "id": 18, "customerId": 6, "month": "June", "amount": 0 },
+      { "id": 19, "customerId": 7, "month": "May", "amount": 180 },
+      { "id": 20, "customerId": 7, "month": "June", "amount": 75 },
+      { "id": 21, "customerId": 7, "month": "July", "amount": 0 },
+      { "id": 22, "customerId": 8, "month": "June", "amount": 100 },
+      { "id": 23, "customerId": 8, "month": "July", "amount": 120 },
+      { "id": 24, "customerId": 8, "month": "August", "amount": 0 },
+      { "id": 25, "customerId": 9, "month": "July", "amount": 200 },
+      { "id": 26, "customerId": 9, "month": "August", "amount": 80 },
+      { "id": 27, "customerId": 9, "month": "September", "amount": 150 },
+      { "id": 28, "customerId": 10, "month": "August", "amount": 150 },
+      { "id": 29, "customerId": 10, "month": "September", "amount": 100 },
+      { "id": 30, "customerId": 10, "month": "October", "amount": 0 }
+    ]
+  }
+  
