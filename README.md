@@ -35,7 +35,7 @@ To run this application locally, follow these steps:
 
 5. Run json-server for calling dummy transactions if using either fetch or axios
 
-### `npx json-server src/component/reward-calculator/data/db.json --port`
+### `npx json-server src/component/reward-calculator/data/db.json --port 3001`
 
 6. Open your browser and go to http://localhost:3000 to view the application.
 
